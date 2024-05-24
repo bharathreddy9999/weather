@@ -1,2 +1,7 @@
 streamlit
 pyowm
+matplotlib
+matplotlib.pyplot
+statistics
+pytz
+datetime.datetime
