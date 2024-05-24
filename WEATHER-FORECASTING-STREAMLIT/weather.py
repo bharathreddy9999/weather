@@ -46,7 +46,7 @@ if place:
         if g_type == "Line Graph":
             ax.plot(dates_list, temps, label='Temperature')
         elif g_type == "Bar Graph":
-            ax.bar(dates_list, temps, label='Temperature',width=0.2,edgeColor='blue')
+            ax.bar(dates_list, temps, label='Temperature',width=0.2)
 
         # Formatting the plot
         ax.set_xlabel('Date')
