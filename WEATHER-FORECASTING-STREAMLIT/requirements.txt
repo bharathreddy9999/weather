@@ -1,7 +1,6 @@
 streamlit
 pyowm
-matplotlib.dates
-matplotlib.pyplot
+matplotlib
 statistics
 pytz
-datetime.datetime
+datetime
