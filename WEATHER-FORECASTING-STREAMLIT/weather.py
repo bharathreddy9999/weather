@@ -6,7 +6,7 @@ from datetime import datetime
 from matplotlib import dates
 import pytz
 import statistics
-
+import matplotlib
 # OpenWeatherMap API key
 api_key = '73f8ab4c93851f9bfcb07104b6e49efd'
 owm = pyowm.OWM(api_key)
